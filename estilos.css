@@ -1,0 +1,94 @@
+.caja1{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja2{
+    height: 70px;
+    width: 70px;
+    background-color: red;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja3{
+    height: 70px;
+    width: 70px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja4{
+    height: 70px;
+    width: 70px;
+    background-color: violet;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja5{
+    height: 150px;
+    width: 663px;
+    background-color: green;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja6{
+    height: 150px;
+    width: 663px;
+    background-color:gray;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja7{
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 50px;
+    position: static;
+}
+.caja8{
+    height: 150px;
+    width: 613px;
+    background-color:green;
+    position: relative;
+}
+.caja9{
+    height: 80px;
+    width: 80px;
+    background-color:burlywood;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.caja10{
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 50px 0 0;
+    position: relative;
+}
+.caja11{
+    height: 150px;
+    width: 613px;
+    background-color:gray;
+    position: relative;
+}
+.caja12{
+    height: 80px;
+    width: 80px;
+    background-color:burlywood;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
